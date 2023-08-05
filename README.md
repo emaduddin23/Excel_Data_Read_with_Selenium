@@ -1,12 +1,10 @@
 
-## Appendix
-
 ## Prerequisite:
 
     1. https://www.javatpoint.com/selenium-tutorial
     2. java
        * https://www.browserstack.com/guide/selenium-with-java-for-automated-test
-       * File Read Write.
+       * File Read.
        
 ## JAVA:
 
